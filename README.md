@@ -1,5 +1,5 @@
 README.md<h2 align="center">
-           ──「  𝐋𝐎𝐊𝐄𝐒𝐇 𝓧 𝐌𝐔𝐒𝐈𝐂 」──
+           ──「  𝐍𝐀𝐖𝐀𝐁 𝓧 𝐌𝐔𝐒𝐈𝐂 」──
 </h2>
 
 <a href="https://www.gambaranimasi.org/cat-bintang-290.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
@@ -29,7 +29,7 @@ README.md<h2 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/LOKESHXMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NAWAB-MUSIC/NAWAB-MUSIC007/edit/main/README.md"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
